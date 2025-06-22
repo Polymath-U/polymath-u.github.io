@@ -1,1 +1,3 @@
-# ai-for-autodidacts.github.io
+# Polymath U
+
+Courseware for self-guided learners 
